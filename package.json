@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "instagram-private-api": "^1.45.2",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "peerDependencies": {
     "re2": "^1.17.4"
